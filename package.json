@@ -7,10 +7,15 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "^18",
-    "react-dom": "^18",
+    "next": "16.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "papaparse": "^5.4.1",
     "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@types/react": "^19.0.0",
+    "@types/node": "^24.0.0"
   }
 }
